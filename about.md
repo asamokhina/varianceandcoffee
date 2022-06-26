@@ -13,7 +13,7 @@ My favorite books are `If on a Winter's Night a Traveler` and `What I Talk About
 
 My favourite professional books are `Introduction to Algorithms` and `Documenting APIs`.
 
-I mainly created this website too play around with static site generators, GitHub Pages and ML art. 
+I mainly created this website to play around with static site generators, GitHub Pages and ML art. 
 
 ### Credits
 
